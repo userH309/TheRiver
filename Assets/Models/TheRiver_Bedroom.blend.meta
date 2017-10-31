@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: c98c4ce7758114b679b7718de7a7c82d
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bed
+    100002: Bed_LP
+    100004: CandleLight
+    100006: CornerShelf
+    100008: Door
+    100010: Outside
+    100012: Shelf
+    100014: Stol
+    100016: Table
+    100018: theHouse
+    100020: //RootNode
+    100022: Window
+    100024: WindowRotation
+    100026: Madrass
+    100028: Plane
+    100030: 1_Floor
+    100032: 2_Floor
+    100034: 3_Attic
+    100036: House
+    400000: Bed
+    400002: Bed_LP
+    400004: CandleLight
+    400006: CornerShelf
+    400008: Door
+    400010: Outside
+    400012: Shelf
+    400014: Stol
+    400016: Table
+    400018: theHouse
+    400020: //RootNode
+    400022: Window
+    400024: WindowRotation
+    400026: Madrass
+    400028: Plane
+    400030: 1_Floor
+    400032: 2_Floor
+    400034: 3_Attic
+    400036: House
+    2300000: Bed
+    2300002: Bed_LP
+    2300004: CandleLight
+    2300006: CornerShelf
+    2300008: Door
+    2300010: Outside
+    2300012: Shelf
+    2300014: Stol
+    2300016: Table
+    2300018: theHouse
+    2300020: Window
+    2300022: WindowRotation
+    2300024: Madrass
+    2300026: Plane
+    2300028: 1_Floor
+    2300030: 2_Floor
+    2300032: 3_Attic
+    2300034: House
+    3300000: Bed
+    3300002: Bed_LP
+    3300004: CandleLight
+    3300006: CornerShelf
+    3300008: Door
+    3300010: Outside
+    3300012: Shelf
+    3300014: Stol
+    3300016: Table
+    3300018: theHouse
+    3300020: Window
+    3300022: WindowRotation
+    3300024: Madrass
+    3300026: Plane
+    3300028: 1_Floor
+    3300030: 2_Floor
+    3300032: 3_Attic
+    3300034: House
+    4300000: Bed_LP
+    4300002: CandleLight
+    4300004: CornerShelf
+    4300006: Stol
+    4300008: Table
+    4300010: WindowRotation
+    4300012: Window
+    4300014: theHouse
+    4300016: Door
+    4300018: Shelf
+    4300020: Bed
+    4300022: Outside
+    4300024: Madrass
+    4300026: Plane
+    4300028: 2_Floor
+    4300030: 1_Floor
+    4300032: 3_Attic
+    4300034: House
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
